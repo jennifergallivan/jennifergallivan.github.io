@@ -11,6 +11,9 @@ defaults:
       author_profile: true
 ---
 
+{% include base_path %}
+{% include toc %}
+
 I have worked collaboratively in Alberta health system for over 15 years from front line through to leadership roles in transition planning, change management and the ability to analyze complex situations into implementable and functional solutions-based approaches.
 
 I have led culturally diverse teams across successful health projects and initiatives in community-based and acute care settings in Canada and India, and have experience with policy development and strategic planning.
