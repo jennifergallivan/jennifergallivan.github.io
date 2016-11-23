@@ -2,7 +2,7 @@
 layout: single
 permalink: /about/
 modified: 2016-11-23
-defaults:
+#defaults:
   # _pages
   #- scope:
   #    path: ""
