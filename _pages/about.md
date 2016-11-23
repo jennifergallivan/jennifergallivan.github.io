@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /about/
 modified: 2016-11-23
 defaults:
@@ -8,7 +8,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: archive
+      layout: single
       author_profile: true
 ---
 
