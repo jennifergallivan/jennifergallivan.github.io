@@ -1,15 +1,14 @@
 ---
-layout: archive
 permalink: /about/
 modified: 2016-11-20T11:57:41-04:00
-#defaults:
-  # _pages
- # - scope:
-  #    path: ""
-   #   type: pages
-    #values:
-     # layout: single
-      #author_profile: true
+defaults:
+   _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: archive
+      author_profile: true
 ---
 
 I have worked collaboratively in Alberta health system for over 15 years from front line through to leadership roles in transition planning, change management and the ability to analyze complex situations into implementable and functional solutions-based approaches.
